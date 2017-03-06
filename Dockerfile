@@ -1,4 +1,4 @@
-FROM docker pull resin/rpi-raspbian:latest
+FROM docker pull resin/rpi-raspbian
 
 MAINTAINER Anuchit Chalothorn, anoochit@gmail.com
 
